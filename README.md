@@ -10,8 +10,7 @@
 
 ### Sivuston kuvaus
 
-Kaikille ihmis- ryhmille tarkoitettu keskustelu- sivusto, jolla voi myös esim. sopia tapaamisen perustuen kartalta haettuihin tietoihin,
-tai vaikkapa keskustella säästä. Eri paikkojen sää- tietoja voi hakea kartta- sivulla olevalla haku- toiminnolla.
+Kaikille ihmisryhmille tarkoitettu keskustelusivusto, jolla voi myös esimerkiksi sopia tapaamisen perustuen kartalta haettuihin tietoihin tai vaikkapa keskustella säästä. Eri paikkojen säätietoja voi hakea karttasivulla olevalla haku- toiminnolla.
 
 ![alt text](https://lh3.googleusercontent.com/drive-viewer/AFGJ81q4Ahc20LowQPt4vsMrBbYUq07-Dxdi-fw9W5Q0H5kqkNcKR10oB5AozuRq3eMVRturJnh3n2GmpQdkNpqrNsfqxkMOCw=s2560)
 
