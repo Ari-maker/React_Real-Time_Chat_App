@@ -12,7 +12,7 @@
 
 Kaikille ihmisryhmille tarkoitettu keskustelusivusto, jolla voi myös esimerkiksi sopia tapaamisen perustuen kartalta haettuihin tietoihin tai vaikkapa keskustella säästä. Eri paikkojen säätietoja voi hakea karttasivulla olevalla hakutoiminnolla.
 
-![alt text](https://drive.google.com/file/d/1ceneRb3O30RKX3UpeMsZYnCa7RTrpXR4/view?usp=sharing)
+![alt text](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pOGxplClX97SlOXwkuQVM1IeL9jUdjDzqB8kX-Yw_2jkvgC-WTmAXlkNWaRM7itOHgwyeMXItrcZ71_ptkLsIsVFNUiA=s2560)
 
 # Asennusohjeet
 
